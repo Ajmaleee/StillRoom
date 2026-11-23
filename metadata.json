@@ -1,0 +1,6 @@
+{
+  "name": "Stillroom",
+  "description": "Atmospheric ambient tablet dashboard with optical Liquid Glass surfaces, real-time audio visualizer, adaptive scene engine, weather, calendar, productivity, tech feeds, and MQTT/HTTP IoT controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
